@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
-import StyledButton from "./Button.styled";
+import { StyledButton } from "./Button.styled";
 
 type ButtonProps = {
   className?: string;
